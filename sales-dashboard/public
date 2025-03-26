@@ -1,0 +1,5 @@
+El directorio `public` debe contener archivos estáticos que se servirán directamente, como imágenes, íconos y otros recursos. Sin embargo, si no hay archivos específicos que agregar en este momento, el contenido del directorio `public` se puede dejar vacío. 
+
+Por lo tanto, el contenido del archivo para el directorio `public` es el siguiente:
+
+<!-- Este directorio está intencionalmente vacío. -->

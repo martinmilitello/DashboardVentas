@@ -1,0 +1,4 @@
+// filepath: sales-dashboard/src/styles/index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
